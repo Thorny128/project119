@@ -1,0 +1,16 @@
+body{
+    background-color: thistle;
+}
+
+#score{
+    margin: left 40px;
+}
+
+#timer{
+    float:right;
+    margin:right 40px;
+}
+
+#Sketch2bedrawn{
+    color: aqua;
+}
